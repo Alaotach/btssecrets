@@ -1,0 +1,43 @@
+body{
+  background-color: #111;
+  font-family: Signika Negative, Asap, sans-serif;
+  color:white;
+  overflow:hidden;
+  background-image: url("./aesthetic clouds couple.jpeg");
+  background-repeat:no-repeat;
+  background-size:contain;
+  background-position:center;
+  background-size: cover;
+}
+
+.para{
+  display: none;
+}
+
+.paraaa{
+  font-size: 10px;
+  text-align: center;
+  border: 4px solid purple;
+}
+
+.paraaaa {
+        font-family: "Courier New", Courier, monospace;
+        font-size: 14px;
+        color: #ff3366;
+        background-color: #ffffcc;
+        padding: 15px;
+        border: 2px solid #ff3366;
+        border-radius: 10px;
+        margin-top: 20px;
+    }
+
+.paraa {
+        font-family: 'Garamond', serif;
+        font-size: 14px;
+        color: #ff69b4; /* Pink color */
+        background-color: #fff7f7; /* Light pink background */
+        padding: 20px;
+        border: 2px dashed #ff69b4; /* Dashed border with pink color */
+        border-radius: 15px;
+        margin-top: 20px;
+    }
